@@ -57,3 +57,5 @@ Now, for each prediction we want to get, starting from the baseline dataset crea
 11.Results discussion
 
 ![Compare Models](https://github.com/nevilsonani/Automated-Medical-Diagnosis-with-Electronic-Health-Records-EHR-/blob/main/images/compare_models_dinh_mimic4.png)
+
+![Feature Importance](https://github.com/nevilsonani/Automated-Medical-Diagnosis-with-Electronic-Health-Records-EHR-/blob/main/images/feature_importance_dinh_mimic4.png)
